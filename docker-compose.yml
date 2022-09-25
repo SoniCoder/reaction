@@ -22,7 +22,7 @@ services:
       default:
       reaction:
     ports:
-      - "3000:3000"
+      - "3001:3000"
 
   mongo:
     image: mongo:4.2.0
